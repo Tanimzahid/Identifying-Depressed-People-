@@ -1,0 +1,104 @@
+id,Food you like most,Leisure time activity,Future plan,CGPA,Month cost for that particular food,Food flavor,Are you happy with current situation?,Number of programming hours spent per day,Sleep duration,"Lab interest(h,l,m)",Preference(class lectures cl or online tutorials)
+151340976,traditional,digital content,software engineer,3.0 - 3.49,1000 - more,Spicy,Maybe,2.0,8.0,High,Class lectures
+151340977,traditional,personal activities,business,2.5 - 2.99,1000 - more,Spicy,Yes,2.0,8.0,High,Online tutorials
+151340980,any,music,software engineer,2.5 - 2.99,0 - 500,Spicy,No,1.0,8.0,Medium,Online tutorials
+151340981,chinese,personal activities,business,2.5 - 2.99,0 - 500,Spicy,No,0.0,6.0,Low,Online tutorials
+151340982,western,digital content,business,3.0 - 3.49,0 - 500,Sweet,No,2.0,8.0,Medium,Online tutorials
+151340983,traditional,digital content,software engineer,2.5 - 2.99,1000 - more,Spicy,Yes,0.3,10.0,High,Online tutorials
+151340984,traditional,personal activities,business,3.5 - 4.0,1000 - more,Spicy,Yes,1.0,5.0,High,Online tutorials
+151340985,any,social media,higher studies,3.0 - 3.49,1000 - more,Spicy,Maybe,2.0,5.0,High,Online tutorials
+151340986,traditional,digital content,software engineer,3.0 - 3.49,0 - 500,Spicy,No,0.0,6.0,High,Online tutorials
+151340988,traditional,music,software engineer,3.5 - 4.0,501 - 1000,Spicy,No,1.0,6.0,High,Online tutorials
+151340990,traditional,digital content,any job,3.0 - 3.49,0 - 500,Sweet,Maybe,1.0,6.0,Medium,Online tutorials
+151340991,western,digital content,higher studies,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,6.0,High,Class lectures
+151340992,western,digital content,business,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,8.0,High,Online tutorials
+151340994,traditional,digital content,software engineer,3.0 - 3.49,0 - 500,Sweet,Yes,2.0,8.0,High,Online tutorials
+151340995,traditional,digital content,business,3.0 - 3.49,0 - 500,Sweet,Yes,2.0,8.0,Medium,Class lectures
+151340996,traditional,digital content,software engineer,2.5 - 2.99,501 - 1000,Sweet,Maybe,1.0,5.0,Medium,Class lectures
+151340998,traditional,digital content,higher studies,3.0 - 3.49,0 - 500,Sweet,Maybe,1.0,8.0,Low,Class lectures
+151341000,traditional,digital content,any job,3.5 - 4.0,0 - 500,Spicy,Yes,1.0,6.0,Medium,Online tutorials
+151341001,western,digital content,business,3.0 - 3.49,0 - 500,Spicy,Yes,0.2,8.0,Medium,Online tutorials
+151340894,traditional,music,higher studies,2.5 - 2.99,501 - 1000,Spicy,Maybe,0.0,8.0,Medium,Online tutorials
+151340897,traditional,nothing,higher studies,3.5 - 4.0,0 - 500,Sweet,Yes,0.0,6.0,Medium,Online tutorials
+151340898,chinese,social media,non cse career,3.5 - 4.0,0 - 500,Sweet,Maybe,3.0,6.0,High,Online tutorials
+151340900,traditional,nothing,business,2.5 - 2.99,501 - 1000,Sweet,No,0.0,6.0,Medium,Class lectures
+151340901,traditional,personal activities,business,3.0 - 3.49,0 - 500,Spicy,Maybe,2.0,5.0,High,Online tutorials
+151340902,traditional,nothing,higher studies,3.0 - 3.49,501 - 1000,Spicy,Maybe,1.0,8.0,High,Online tutorials
+151340903,traditional,social media,non cse career,2.5 - 2.99,1000 - more,Spicy,Yes,1.0,10.0,High,Class lectures
+151340904,traditional,nothing,higher studies,3.0 - 3.49,1000 - more,Spicy,Yes,2.0,6.0,Medium,Class lectures
+151340905,western,personal activities,higher studies,3.5 - 4.0,501 - 1000,Spicy,No,1.0,8.0,Medium,Online tutorials
+151340906,traditional,social media,business,3.0 - 3.49,0 - 500,Spicy,Yes,0.5,10.0,High,Online tutorials
+151340907,traditional,nothing,higher studies,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,6.0,Medium,Class lectures
+151340909,traditional,nothing,business,3.5 - 4.0,1000 - more,Sweet,Maybe,0.0,10.0,High,Online tutorials
+151340910,traditional,personal activities,business,3.5 - 4.0,0 - 500,Sweet,Maybe,1.0,8.0,High,Class lectures
+151340911,western,nothing,non cse career,2.5 - 2.99,0 - 500,Spicy,No,1.0,6.0,Medium,Online tutorials
+151340912,traditional,music,software engineer,3.5 - 4.0,1000 - more,Sweet,Maybe,1.0,8.0,High,Online tutorials
+151340913,western,nothing,non cse career,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,8.0,Medium,Online tutorials
+151340914,any,nothing,higher studies,3.0 - 3.49,0 - 500,Sweet,Maybe,2.0,8.0,High,Class lectures
+151340916,traditional,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Yes,1.0,10.0,High,Class lectures
+151340917,traditional,nothing,any job,3.0 - 3.49,501 - 1000,Spicy,No,0.0,5.0,Medium,Class lectures
+151340918,traditional,nothing,business,3.0 - 3.49,501 - 1000,Spicy,No,1.0,10.0,Medium,Online tutorials
+151340919,traditional,digital content,higher studies,3.0 - 3.49,1000 - more,Spicy,Yes,2.0,8.0,High,Class lectures
+151340920,traditional,personal activities,non cse career,2.5 - 2.99,501 - 1000,Spicy,Yes,2.0,5.0,High,Online tutorials
+151341035,any,personal activities,higher studies,3.5 - 4.0,0 - 500,Spicy,Yes,1.0,8.0,High,Class lectures
+121440946,any,personal activities,higher studies,below 2.5,0 - 500,Sweet,Yes,2.0,6.0,Medium,Online tutorials
+151341043,any,nothing,higher studies,3.5 - 4.0,0 - 500,Sweet,Maybe,0.5,10.0,High,Class lectures
+141440945,any,nothing,higher studies,2.5 - 2.99,0 - 500,Spicy,No,3.0,5.0,High,Online tutorials
+151341040,any,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Yes,0.0,6.0,High,Online tutorials
+151341045,western,personal activities,higher studies,3.0 - 3.49,501 - 1000,Sweet,Yes,1.0,8.0,High,Online tutorials
+141440962,traditional,reading,higher studies,3.0 - 3.49,1000 - more,Spicy,Yes,1.0,6.0,Medium,Online tutorials
+151341037,traditional,personal activities,non cse career,3.0 - 3.49,0 - 500,Spicy,Yes,3.0,6.0,High,Online tutorials
+151341044,traditional,nothing,business,2.5 - 2.99,1000 - more,Spicy,Yes,1.0,8.0,Medium,Online tutorials
+151341038,any,personal activities,higher studies,3.0 - 3.49,501 - 1000,Spicy,No,1.0,10.0,Medium,Online tutorials
+151341039,western,personal activities,software engineer,3.0 - 3.49,1000 - more,Spicy,Yes,5.0,8.0,High,Online tutorials
+131440969,traditional,nothing,higher studies,2.5 - 2.99,501 - 1000,Sweet,Maybe,1.0,8.0,Medium,Online tutorials
+151341036,western,nothing,higher studies,3.0 - 3.49,501 - 1000,Spicy,No,2.0,10.0,High,Class lectures
+141440899,western,reading,higher studies,3.5 - 4.0,1000 - more,Spicy,Yes,2.0,8.0,Medium,Class lectures
+131440910,western,personal activities,software engineer,2.5 - 2.99,0 - 500,Sweet,No,1.0,6.0,High,Class lectures
+141340900,traditional,nothing,any job,below 2.5,1000 - more,Spicy,No,2.0,5.0,Medium,Online tutorials
+151341031,any,nothing,any job,2.5 - 2.99,0 - 500,Spicy,Yes,0.0,8.0,Low,Online tutorials
+141440980,any,personal activities,higher studies,below 2.5,501 - 1000,Sweet,Yes,1.0,8.0,High,Class lectures
+151341008,traditional,personal activities,any job,3.0 - 3.49,0 - 500,Spicy,No,1.0,6.0,Medium,Class lectures
+151341004,western,reading,higher studies,3.0 - 3.49,0 - 500,Sweet,Maybe,1.0,8.0,High,Class lectures
+151341004,western,reading,higher studies,3.5 - 4.0,501 - 1000,Spicy,Yes,3.0,6.0,High,Class lectures
+151341006,western,personal activities,any job,3.0 - 3.49,0 - 500,Sweet,No,1.0,6.0,Medium,Online tutorials
+151341016,chinese,personal activities,software engineer,3.0 - 3.49,0 - 500,Spicy,Yes,2.0,5.0,High,Online tutorials
+151341013,any,personal activities,software engineer,3.0 - 3.49,501 - 1000,Spicy,No,1.0,8.0,High,Online tutorials
+151341026,any,personal activities,any job,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,8.0,Medium,Online tutorials
+151341023,western,nothing,higher studies,3.0 - 3.49,501 - 1000,Sweet,No,1.0,6.0,Medium,Online tutorials
+151341027,any,personal activities,any job,3.5 - 4.0,0 - 500,Spicy,No,3.0,10.0,High,Online tutorials
+151341015,any,personal activities,any job,2.5 - 2.99,0 - 500,Spicy,Maybe,2.0,6.0,High,Online tutorials
+151341028,any,personal activities,any job,3.0 - 3.49,0 - 500,Sweet,No,3.0,8.0,High,Online tutorials
+151341017,western,nothing,any job,3.0 - 3.49,501 - 1000,Spicy,Maybe,2.0,6.0,Medium,Online tutorials
+151341011,any,nothing,any job,3.5 - 4.0,0 - 500,Sweet,No,0.5,8.0,High,Class lectures
+151341014,western,nothing,software engineer,3.0 - 3.49,1000 - more,Spicy,Maybe,1.0,6.0,Medium,Online tutorials
+151341005,any,personal activities,software engineer,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,8.0,High,Online tutorials
+151341009,chinese,nothing,higher studies,3.5 - 4.0,0 - 500,Spicy,Yes,1.0,6.0,High,Class lectures
+151341022,western,nothing,any job,2.5 - 2.99,1000 - more,Spicy,No,2.0,8.0,Medium,Online tutorials
+151341029,western,nothing,business,3.0 - 3.49,1000 - more,Sweet,Maybe,8.0,6.0,High,Online tutorials
+151341010,any,nothing,software engineer,3.0 - 3.49,0 - 500,Sweet,Yes,1.0,10.0,Medium,Online tutorials
+151341020,traditional,nothing,higher studies,2.5 - 2.99,0 - 500,Spicy,No,1.0,8.0,High,Online tutorials
+151341012,any,personal activities,any job,2.5 - 2.99,501 - 1000,Sweet,Yes,0.3,8.0,Medium,Online tutorials
+151341021,any,digital content,higher studies,3.0 - 3.49,501 - 1000,Spicy,Yes,3.0,8.0,High,Online tutorials
+151341019,any,personal activities,any job,2.5 - 2.99,501 - 1000,Spicy,Yes,2.0,8.0,Medium,Online tutorials
+151340921,traditional,personal activities,higher studies,3.0 - 3.49,501 - 1000,Spicy,No,0.0,8.0,High,Class lectures
+151340923,western,nothing,higher studies,3.5 - 4.0,1000 - more,Spicy,Yes,1.0,6.0,High,Class lectures
+151340925,chinese,personal activities,higher studies,3.5 - 4.0,501 - 1000,Spicy,Yes,14.0,8.0,High,Online tutorials
+151340926,chinese,personal activities,software engineer,3.0 - 3.49,1000 - more,Spicy,Yes,1.0,8.0,Medium,Online tutorials
+151340927,chinese,digital content,higher studies,3.0 - 3.49,501 - 1000,Spicy,Yes,2.0,5.0,Medium,Online tutorials
+151340928,traditional,personal activities,software engineer,3.5 - 4.0,0 - 500,Spicy,Yes,0.0,8.0,Medium,Class lectures
+151340930,traditional,digital content,software engineer,3.0 - 3.49,1000 - more,Sweet,Yes,2.0,5.0,High,Online tutorials
+151340931,traditional,nothing,software engineer,3.5 - 4.0,501 - 1000,Spicy,No,0.5,8.0,Medium,Online tutorials
+151340932,traditional,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Yes,1.0,8.0,High,Online tutorials
+151340933,traditional,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Yes,1.0,6.0,High,Class lectures
+151340934,traditional,personal activities,software engineer,3.0 - 3.49,0 - 500,Sweet,No,1.0,8.0,Medium,Class lectures
+151340935,any,nothing,software engineer,3.0 - 3.49,501 - 1000,Spicy,Yes,1.0,8.0,High,Class lectures
+151340937,chinese,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Maybe,2.0,8.0,High,Class lectures
+151340939,western,social media,software engineer,3.5 - 4.0,0 - 500,Sweet,Maybe,2.0,8.0,High,Online tutorials
+151340941,chinese,personal activities,any job,2.5 - 2.99,501 - 1000,Spicy,Maybe,0.0,10.0,High,Class lectures
+151340942,western,personal activities,software engineer,3.5 - 4.0,0 - 500,Spicy,Maybe,1.0,6.0,Medium,Online tutorials
+151340943,western,nothing,software engineer,3.0 - 3.49,1000 - more,Spicy,No,1.0,6.0,High,Online tutorials
+151340944,traditional,nothing,software engineer,3.5 - 4.0,0 - 500,Spicy,Yes,2.0,6.0,High,Online tutorials
+151340945,traditional,nothing,software engineer,3.0 - 3.49,0 - 500,Spicy,Maybe,1.5,8.0,High,Class lectures
+151340946,traditional,personal activities,software engineer,3.0 - 3.49,1000 - more,Sweet,Yes,1.0,6.0,Medium,Online tutorials
+151340947,traditional,nothing,software engineer,3.0 - 3.49,501 - 1000,Spicy,Yes,0.4,6.0,High,Online tutorials

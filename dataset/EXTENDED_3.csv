@@ -1,0 +1,80 @@
+Timestamp,id,what kind of foods you generally eat in the breakfast time?,number of private tuition or part time activities,where he/she has spent their childhood(city/countryside),favourite destination(mountain/sea/forest), Do you follow proper diet chart ?(y/n),Do you frequently eat fast foods  ? (y/n),Do you exercise ? (everyday/never/sometimes ),"How much you prefer to spend when you are going out for dinner or lunch ?( 200-300,400-600,700-1000,1000+)",Number of diabetic affected family members,Blood pressure: a)High b)Normal c)Low,Waist Circumference(cm) (a) less than 80 (b) 80-94 (c) 94-102 (d) greater than 102,Do you feel yourself depressed in a hostile situation?,Do you feel insecure among the strangers?,Are you impatient in general?,Do you feel confident when you start any project?,Are you helpful towards your family & friends?,Do you like listening songs?,Do you get angry instantly if anything goes wrong?,(a) iPhone or (b) other smartphone?,Do you agree with this statement? - 'Look does not matter' a)Yes b)No,Mobile games are- a)fun and interesting b) boring and waste of time c) do not care,Favorite mobile game genre is- a) War game b) Racing c) Puzzle,study time (hour)
+2019/04/04 12:41:29 PM GMT+6,151341038,Fruits and oats,1,city,mountain,No,Yes,No,200-300,2,Low,28,Yes,Yes,Yes,No,No,Yes,Yes,b,No,C,C,4
+2019/04/04 12:54:50 PM GMT+6,151341011,bread or rice,0,countryside,sea,No,No,No,200-300,1,Normal,80,Yes,Maybe,Yes,Yes,Maybe,Yes,Yes,b,Yes,C,,2
+2019/04/04 1:00:14 PM GMT+6,151340926,carbohydrate,1,city,sea,No,Yes,Maybe,400-600,1,Normal,80,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,Yes,a,A,2
+2019/04/04 1:03:30 PM GMT+6,151341008,Breads and egg,0,City,Mountain,No,Yes,No,200-300,2,Low,98,Yes,Yes,Yes,No,Yes,Yes,Yes,b,Yes,C,C,1
+2019/04/04 1:03:40 PM GMT+6,151340950,Bread and Butter,4,Dhaka,Mountain,No,Maybe,Maybe,1000+,1,High,92,Maybe,No,Yes,Maybe,Maybe,Yes,Maybe,b,No,a,A,5
+2019/04/04 1:06:49 PM GMT+6,141440945,bread and vegetables,3,city,mountain,Maybe,Yes,Yes,200-300,0,Normal,70,No,Maybe,No,No,Maybe,Yes,Maybe,b,No,a,B,5
+2019/04/04 1:07:54 PM GMT+6,151340938,Ruti and egg,0,city,sea,No,Yes,No,200-300,2,Normal,85,No,No,No,Yes,Yes,Yes,No,b,No,C,C,3
+2019/04/04 1:12:07 PM GMT+6,151340903,Bread,2,city,sea,Yes,Maybe,Maybe,200-300,2,Low,85,Maybe,No,Maybe,Maybe,Maybe,Yes,Yes,b,No,C,C,3
+2019/04/04 1:16:06 PM GMT+6,151341006,"egg, ruti",0,city,"mountain,sea",No,Yes,Yes,200-300,5,Normal,85,No,Yes,Yes,No,Maybe,Yes,Yes,b,Yes,a,C,2
+2019/04/04 1:19:08 PM GMT+6,151341035,rice,0,city,sea,Maybe,Yes,No,300-400,0,Normal,80,No,No,Maybe,Yes,Yes,Yes,Yes,b,No,a,A,2
+2019/04/04 1:23:36 PM GMT+6,151340910,Bread,2,Dhaka,Sea,No,Yes,Maybe,200-300,2,Normal,102,Maybe,Maybe,Yes,No,Yes,Yes,No,b,Yes,C,B,1
+2019/04/04 2:11:36 PM GMT+6,151340964,porota & vegetables,1,city,sea,No,No,Maybe,200-300,1,Normal,80,Yes,Maybe,Maybe,Maybe,Yes,Yes,Maybe,b,Yes,a,B,4
+2019/04/04 2:16:51 PM GMT+6,151340905,porota shobji,4,dhaka,sea,No,Yes,No,200-300,1,Normal,85,Yes,Yes,Yes,No,Maybe,Yes,Yes,b,Yes,a,B,2
+2019/04/04 2:17:46 PM GMT+6,151341013,"Bread, Eggs, light snacks",0,city,sea,No,Maybe,No,200-300,2,Normal,85,Yes,Yes,Yes,Yes,Yes,Yes,No,b,Yes,a,B,2
+2019/04/04 2:21:12 PM GMT+6,151340985,i usually don't eat breakfast,1,city,sea,No,Yes,No,400-600,1,Normal,95,No,No,No,Yes,Yes,Yes,No,b,Yes,C,C,3
+2019/04/04 2:44:19 PM GMT+6,131440910,Bread,2,City,Mountain,No,Yes,Maybe,200-300,1,Normal,80,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,b,Yes,C,C,3
+2019/04/04 3:16:00 PM GMT+6,151340990,Parata,0,Dhaka,Sea,No,Maybe,Maybe,500,1,Low,100,Yes,Yes,Yes,No,Maybe,Yes,Yes,b,No,a,B,2
+2019/04/04 3:17:39 PM GMT+6,151340969,Nothing.,"Movie, series etc.",Dhaka,Sea,No,Yes,No,200-300,0,Normal,1,No,Maybe,No,Yes,Yes,Yes,Yes,b,Yes,C,C,3
+2019/04/04 3:49:13 PM GMT+6,151341045,Bread,1,city,sea,No,Yes,No,400-600,2,Normal,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,No,a,A,3
+2019/04/04 4:01:59 PM GMT+6,151340920,Bread & Egg,2,Gazipur,mountain,No,Yes,No,200-300,2,Normal,80,Maybe,No,Yes,Maybe,Yes,Yes,Yes,b,Yes,a,A,2
+2019/04/04 4:30:37 PM GMT+6,151341012,"Egg , Bread",0,both city and countyside ,sea ,Maybe,Yes,Maybe,400-600,1,Normal,88,No,No,No,No,Yes,Yes,No,b,No,C,C,2
+2019/04/04 4:53:05 PM GMT+6,151340944,Sweet,1,city,sea,No,Yes,Maybe,300,5,Normal,85,Yes,No,No,Yes,Yes,Yes,No,b,Yes,B,A,4
+2019/04/04 5:35:06 PM GMT+6,151340982,ruti  & dim bhaji,0,city,sea,Maybe,No,No,400-600,0,Normal,92,Yes,Yes,No,Yes,Yes,Yes,Maybe,b,Yes,C,C,7
+2019/04/04 5:42:36 PM GMT+6,151340925,Bread with egg,4,city,sea,No,Maybe,Maybe,400-600,1,Normal,80,No,No,No,Yes,Yes,Yes,No,b,Yes,C,A,3
+2019/04/04 5:44:02 PM GMT+6,151340897,Ruti,Reading Newspaper,Brahmanbaria,Bandarban,No,No,No,200-300,0,Normal,80,Maybe,Maybe,No,Maybe,Yes,No,No,b,Yes,B,A,6
+2019/04/04 5:51:44 PM GMT+6,151340916,Egg,2private tution,City,Sea,No,No,Maybe,1000+,0,Normal,80,Maybe,No,No,Yes,Yes,Yes,Maybe,b,Yes,B,C,3
+2019/04/04 5:52:23 PM GMT+6,151340907,Bread,2,Chittagong ,sea,No,Maybe,No,200-300,1,Normal,80,Maybe,No,No,Yes,Yes,Yes,No,b,Yes,C,B,4
+2019/04/04 5:54:27 PM GMT+6,141340900,nothing,0,coountryside,mountain,No,Yes,No,1,0,Normal,80,Yes,No,Yes,No,Yes,Yes,No,b,,a,A,1
+2019/04/04 5:58:06 PM GMT+6,151340930,Bread tea,2,City,Mountain,No,No,Yes,700-1000,1,Normal,46,No,No,No,Yes,Yes,Yes,No,b,Yes,a,A,2
+2019/04/04 6:13:46 PM GMT+6,151340939,Horlicks,2,countryside,Forest,No,Yes,Maybe,200-300,1,High,94,Yes,Yes,No,Maybe,Yes,Yes,Maybe,b,Yes,C,C,3
+2019/04/04 6:13:47 PM GMT+6,151341020,Porota Bhaji,3,city,mountain,No,Yes,No,200-300,1,Low,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,Yes,C,C,1
+2019/04/04 6:20:45 PM GMT+6,151341021,Ruti,0,City,Forest,No,Yes,Maybe,400-600,2,Low,80,Maybe,No,Yes,Yes,Yes,Yes,Yes,b,Yes,C,A,1
+2019/04/04 6:26:40 PM GMT+6,151340947,"porota, vhaji",1,city,sea,No,Yes,No,300,1,Low,78,Yes,Maybe,Maybe,No,Maybe,Yes,Yes,b,Yes,a,C,2
+2019/04/04 6:32:01 PM GMT+6,151341028,paratha,1,city,mountain,No,Maybe,Maybe,200-300,1,Normal,76,No,Maybe,No,Maybe,Yes,Yes,Maybe,b,No,a,C,2
+2019/04/04 6:36:52 PM GMT+6,151340933,Snacks,1,city,mountain,Maybe,Yes,Maybe,200-300,2,Normal,80,No,No,Yes,Yes,Maybe,Yes,Yes,b,Yes,a,A,3
+2019/04/04 6:38:25 PM GMT+6,151341010,Porota,0,city,sea,No,Yes,No,200-300,3,Normal,80,Maybe,Yes,Maybe,Yes,Maybe,Maybe,No,b,Yes,C,A,1
+2019/04/04 6:40:53 PM GMT+6,151340911,Bread,N/A,Dhaka,Sea,No,No,No,400-600,1,Low,82,Yes,Yes,No,Maybe,Yes,Yes,Yes,b,Yes,a,B,1
+2019/04/04 6:47:02 PM GMT+6,151340932,Healthy,0,City,mountain,No,Yes,Maybe,200-300,0,Normal,80,No,No,No,Yes,Yes,Yes,Yes,a,No,B,A,3
+2019/04/04 7:01:31 PM GMT+6,151341027,bread,0,countryside,sea,No,No,No,200-300,1,Normal,80,Maybe,Maybe,Maybe,Maybe,Maybe,Yes,Yes,b,No,a,B,3
+2019/04/04 7:03:46 PM GMT+6,151341023,ruti and egg,1,city,sea,No,Yes,Maybe,200-300,1,Low,80,No,Maybe,Yes,No,Yes,Maybe,Yes,b,No,a,C,2
+2019/04/04 7:18:26 PM GMT+6,151340902,"bread, egg, vegetable",0,city,sea,No,Yes,Maybe,200-300,2,Normal,80,Yes,Maybe,Yes,Maybe,Maybe,Yes,Yes,b,No,B,C,2
+2019/04/04 7:21:48 PM GMT+6,151340928,Bread and Cake,0,countryside,mountain,No,Yes,No,200-300,0,Normal,84,Maybe,Maybe,Maybe,No,Yes,Yes,No,b,No,C,A,3
+2019/04/04 7:28:02 PM GMT+6,151341016,bread,0,city,sea,No,Yes,Yes,700-1000,1,Normal,70,Yes,No,Yes,Yes,Yes,Yes,Yes,b,Yes,C,B,4
+2019/04/04 7:32:14 PM GMT+6,151340946,"ruti , vegetable curry , milk",0,city,sea,Yes,No,Yes,200-300,0,Low,82,Yes,Yes,No,Yes,Yes,No,No,b,Yes,B,B,5
+2019/04/04 7:33:38 PM GMT+6,151340945,Corn flakes,1,city,sea,No,Maybe,Maybe,200-300,1,Normal,94,Yes,Maybe,Maybe,Yes,Yes,Yes,Maybe,b,Yes,C,B,6
+2019/04/04 7:37:20 PM GMT+6,151340934,porata ,1,jashore,mountain,No,No,No,400-600,0,Normal,75,Maybe,No,No,Maybe,Yes,Yes,Yes,b,Yes,C,B,1
+2019/04/04 7:44:06 PM GMT+6,151341026,bread & egg,1,city,mountain,No,No,Yes,200-300,2,Normal,81.28,Yes,No,No,Maybe,Yes,Yes,No,b,Yes,a,A,2
+2019/04/04 7:52:29 PM GMT+6,151341005,Bread and egg,1,city,sea,No,No,No,200-300,1,Normal,81,Yes,Yes,Yes,No,No,Yes,Yes,b,No,a,A,1
+2019/04/04 7:52:39 PM GMT+6,151341009,Rice,0,city,mountain,No,Maybe,No,200-300,2,Normal,80,Yes,No,No,Yes,Yes,Maybe,Maybe,b,No,C,C,1
+2019/04/04 7:53:36 PM GMT+6,151340935,"bread, potato",0,Khulna,Anyone,No,Yes,No,200-300,1,Normal,76.2,Yes,No,No,Yes,Yes,Yes,No,b,No,B,C,1
+2019/04/04 7:57:33 PM GMT+6,151340909,"oats meal, fruits",none,city,sea,Maybe,No,Yes,400-600,2,Normal,90,Maybe,Yes,Yes,No,Maybe,Yes,Maybe,a,Yes,a,C,2
+2019/04/04 8:01:51 PM GMT+6,151340904,bread-egg,3,dhaka,all of them.,Yes,Maybe,Yes,200-300,1,Normal,80,Yes,No,Maybe,Maybe,Maybe,No,Yes,b,Yes,B,A,1
+2019/04/04 8:12:17 PM GMT+6,151340913,Rice,0,city,mountain,No,Yes,Maybe,200-300,2,Normal,75,Yes,Yes,Yes,No,Yes,Yes,Maybe,b,No,a,C,3
+2019/04/04 8:42:05 PM GMT+6,151340937,"bread, curry",0,city,mountain,No,Maybe,No,200-300,2,Normal,90,Yes,Yes,Maybe,No,Maybe,Yes,Maybe,b,Yes,C,C,2
+2019/04/04 8:47:48 PM GMT+6,121440946,roti,1,Dhaka,Sundarban,No,Maybe,Maybe,200-300,0,Normal,81,Maybe,Maybe,Maybe,Maybe,Yes,Yes,Maybe,b,Yes,C,C,4
+2019/04/04 9:13:31 PM GMT+6,151341022,Fast food,2,Comilla,Mountain,No,Yes,No,700-1000,0,Low,1,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes,b,Yes,a,B,2
+2019/04/04 9:21:24 PM GMT+6,151341043,Bengali,0,Dhaka,Sea,No,Yes,No,200-300,0,Normal,90,Maybe,Maybe,No,Maybe,Yes,Yes,No,a,Yes,C,B,2
+2019/04/04 9:24:06 PM GMT+6,151340923,Paratha and Daal-Vaaji,2,countryside,sea,Yes,No,Yes,400-600,1,Normal,81.28,Maybe,Maybe,No,Yes,Yes,Yes,No,b,No,a,B,6
+2019/04/04 9:45:46 PM GMT+6,151340942,rice,3,city,sea,Yes,No,No,400-600,0,Normal,44,Yes,No,Maybe,Yes,Yes,Yes,No,a,No,C,C,3
+2019/04/04 9:47:56 PM GMT+6,151341039,Home made light foods,3,City,Sea,No,No,No,700-1000,0,Normal,89,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,No,a,B,4
+2019/04/04 9:47:57 PM GMT+6,151341040,Nothing,0,City,Sea,No,Yes,Maybe,200-300,1,Low,90,Yes,Yes,No,No,Yes,Yes,No,b,Yes,B,C,5
+2019/04/04 10:02:23 PM GMT+6,151340898,Serial,2,city,mountain,No,Yes,No,200-300,4,Low,80,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,Yes,a,B,3
+2019/04/04 10:02:36 PM GMT+6,151341015,Bread with fried egg,N/A,Faridpur,Sunamganj,No,Yes,Maybe,200-300,1,Normal,88,Maybe,No,Maybe,Maybe,Yes,Yes,Maybe,b,Yes,a,C,2
+2019/04/04 10:10:49 PM GMT+6,151341004,bread and vegetable,0,City,Sea,Yes,No,Yes,400-600,0,Normal,80,Yes,No,Yes,Yes,Yes,Yes,Maybe,b,Yes,a,C,8
+2019/04/04 10:22:14 PM GMT+6,151340943,Porota,0,Brahmanbaria,sea,No,Yes,No,400-600,1,Normal,84,No,Maybe,No,Yes,Yes,Yes,Yes,b,No,C,A,2
+2019/04/04 10:56:49 PM GMT+6,141440962,Light food,None,Mymensingh,"Mountain,sea",No,Yes,Yes,700-1000,1,Normal,79,No,No,Yes,Yes,Yes,Maybe,Yes,b,No,C,A,1
+2019/04/04 11:15:36 PM GMT+6,151340931,"ruti, omelet",0,city,mountain,No,No,Maybe,200-300,2,Low,82,Yes,Yes,No,Yes,Maybe,Maybe,No,b,Yes,C,A,2
+2019/04/04 11:17:45 PM GMT+6,151340927,Porota,3,City,Mountain ,No,No,No,400-600,2,Low,80,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,b,Yes,a,C,3
+2019/04/04 11:35:56 PM GMT+6,151340906,Porota vaji,Nothing,Brahmanbaria,mountain,No,No,Maybe,200-300,0,Normal,80,No,No,No,Yes,Yes,Yes,No,b,Yes,C,A,3
+2019/04/04 11:46:05 PM GMT+6,151340940,Ruti-Dimbhaji,1,city,mountain,No,No,Maybe,400-600,1,Normal,86,Maybe,No,No,Maybe,Yes,Yes,No,b,No,C,B,1
+2019/04/05 12:01:00 AM GMT+6,151341014,Bread with egg,2,City,Sea,No,Yes,Maybe,200-300,0,Normal,85,Maybe,No,Maybe,No,Maybe,Yes,No,b,No,a,A,1
+2019/04/05 12:14:32 AM GMT+6,151341037,Bread,1,dhaka,sea,No,No,No,400-600,0,High,94,Yes,Yes,Yes,Yes,Yes,Yes,Yes,b,Yes,C,C,3
+2019/04/05 12:23:44 AM GMT+6,151340901,Bread,0,city,mountain,No,Yes,Yes,400-600,2,Normal,3,No,Yes,No,No,Yes,Yes,No,b,Yes,a,C,4
+2019/04/05 1:14:41 AM GMT+6,151341029,traditional,0,city,mountain,No,Yes,Yes,400-600,2,Normal,94,No,Maybe,No,Yes,Yes,Yes,Maybe,b,Yes,a,C,5
+2019/04/05 3:09:31 PM GMT+6,151340994,ruti,1,city,sea,No,Yes,No,200-300,1,Normal,2,No,Yes,Yes,No,Yes,Yes,No,b,Yes,a,C,2
+2019/04/05 3:41:25 PM GMT+6,151340961,"Bread, Egg, Coffee",0,Satkhira,sea,Maybe,Yes,Yes,200-300,0,Low,81.28,Yes,Yes,Maybe,Maybe,Yes,Yes,Maybe,b,No,C,C,6
+2019/04/05 5:31:38 PM GMT+6,151340957,Bread,0,City,Sea,No,Yes,No,400-600,0,Normal,28,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,b,Yes,a,C,6
+2019/04/06 4:51:19 AM GMT+6,151340894,light,0,city,mountain,No,Yes,Maybe,200-300,1,Normal,83.82,Maybe,No,Yes,No,Maybe,Yes,No,b,Yes,C,A,1
+2019/04/06 9:22:51 AM GMT+6,151341036,rice,nothing,city,sea,No,Yes,No,200-300,0,Low,78,Yes,No,No,Yes,Yes,Yes,Yes,b,No,C,C,4
